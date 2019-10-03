@@ -12,5 +12,9 @@ public class Test {
 	public static void printName(String name) {
 		System.out.println(name);
 	}
+	
+	public static void printLastName(String lastName) {
+		
+	}
 
 }
