@@ -8,7 +8,11 @@ public class Test {
 <<<<<<< Upstream, based on origin/development
 =======
 		System.out.println("blub");
+<<<<<<< Upstream, based on origin/development
 >>>>>>> 56fddef commit
+=======
+		System.out.println("blub");
+>>>>>>> 4523389 g
 
 	}
 
